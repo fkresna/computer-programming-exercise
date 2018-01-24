@@ -3,7 +3,7 @@ This is a computer programming library that I collect and use when I'm teaching 
 
 ## Basic or Introduction
 1. Print "Hello World"
-	* Java
+	* [Java](java/HelloWorld.java)
 	* Python
 	* C++
 	* PHP
