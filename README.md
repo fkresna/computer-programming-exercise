@@ -11,5 +11,5 @@ If you are looking for Computer Programming Tutor, Please email me at freddy@kre
 1. Create a code that simulate traffic light with the input = light (red, yellow, and green) and output is the action (stop, stand by and run)
 	[Java](java/TrafficLight.java) | [Python3](python3/TrafficLight.py) | [PHP](php/TrafficLight.php) | [GO lang](go-lang/TrafficLight.go)
 
-
+ 
 ## Looping or FOR
