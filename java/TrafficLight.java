@@ -5,6 +5,7 @@ import java.util.Scanner;
  		Scanner input = new Scanner(System.in);
  		System.out.print("Please input the light(red, yellow, and green)");
  		String light = input.next();
+ 		//String comparison in java is using equals() method not using ==
  		if (light.equals("red")) {
  			System.out.println("Stop");
  		} else if (light.equals("yellow")) {
