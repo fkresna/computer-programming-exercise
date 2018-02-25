@@ -1,1 +1,3 @@
 *.class
+python3/pytest/.pytest_cache/
+python3/pytest/__pycache__/
