@@ -1,0 +1,7 @@
+{
+    "name": "kresna/programmingExercise",
+    "description": "Programming Exercise",
+    "require" : {
+        "phpunit/phpunit": "4.*"
+    }
+}
